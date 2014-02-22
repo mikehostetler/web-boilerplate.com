@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "description": "CodeSwarm Web Interface",
   "dependencies": {
-    "codeswarm": "*",
+    "codeswarm": "git+ssh://git@github.com:codeswarm/codeswarm.git",
 		"optimist": "0.3.4",
     "grunt": "0.4.1"
   },
